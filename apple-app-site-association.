@@ -3,11 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": “JSH37F6K9F.ru.hybridvideo.enterprise",
+        "appID": "JSH37F6K9F.ru.hybridvideo.enterprise",
         "paths": [
-          “*”
+          "*"
         ]
       }
     ]
   }
 }
+
