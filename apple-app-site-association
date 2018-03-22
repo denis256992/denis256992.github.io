@@ -1,14 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "JSH37F6K9F.ru.hybridvideo.enterprise",
-        "paths": [
-          "*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JSH37F6K9F.ru.hybridvideo.enterprise",
+                "paths": [ "*" ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
-
